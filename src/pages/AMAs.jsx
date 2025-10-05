@@ -46,7 +46,8 @@ const AMAs = () => {
       project: 'GameChain',
       date: '2024-03-15',
       recording: 'https://example.com/recording3',
-      summary: 'Technical overview of GameChain's blockchain gaming infrastructure.'
+     summary: "Technical overview of GameChain's blockchain gaming infrastructure."
+
     }
   ];
 
